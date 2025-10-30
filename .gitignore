@@ -1,0 +1,10 @@
+# Terraform files to ignore
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.log
+*.exe
+*.zip
+*.tar.gz
+*.bak
